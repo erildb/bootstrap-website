@@ -1,0 +1,14 @@
+.item-image:hover + .item-button {
+  display: inline;
+}
+
+.item-button {
+  position: absolute;
+  width: 150px;
+  margin: 20px;
+  float: right;
+  bottom: 80px;
+  left: 340px;
+  background-color: #7a52b3;
+  display: none;
+}
